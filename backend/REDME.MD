@@ -1,0 +1,12 @@
+Doctor{
+id,
+fullName,
+number,
+password,
+gender,
+Age,
+Adress,
+photo,
+norses,
+users,
+}
